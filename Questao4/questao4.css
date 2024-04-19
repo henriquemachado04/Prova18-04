@@ -1,0 +1,66 @@
+div.qua1 {
+    background-color: rgb(22, 235, 22);
+    display: inline-block;
+    height: 250px;
+    width: 350px;
+    }
+
+div.qua2 {
+    background-color: rgb(108, 151, 126);
+    display: inline-block;
+    margin-left: 10px;
+    width: 600PX;
+    height:250px;
+    }
+div.qua3 {
+    background-color: rgb(141, 226, 176);
+    display: inline-block;
+    margin-left: 15px;
+    width: 330PX;
+    height:250px;
+    position: absolute;
+    }
+
+div.qua4 {
+    background-color: rgb(65, 161, 105);
+    display: inline-flex;
+    margin-left: 360px;
+    width: 130PX;
+    min-height:715px;
+    position: absolute;
+    }
+
+div.qua5 {
+    background-color: rgb(24, 53, 36);
+    display: inline-flex;
+    margin-left: 505px;
+    width: 230PX;
+    min-height:715px;
+    position: absolute;
+    }
+
+div.qua6 {
+    background-color: rgb(138, 165, 149);
+    display: inline-flex;
+    margin-left: 750px;
+    width: 30PX;
+    min-height: 715px;
+    position: absolute;
+    }
+
+div.qua7 {
+    background-color: rgb(50, 255, 132);
+    margin-top: 10px;
+    width: 350px;
+    min-height: 450px;
+    position: absolute;
+    }
+
+div.qua8 {
+    background-color: rgb(50, 255, 132);
+    margin-top: 10px;
+    margin-left: 365px;
+    width: 945px;
+    min-height: 450px;
+    position: absolute;
+    }

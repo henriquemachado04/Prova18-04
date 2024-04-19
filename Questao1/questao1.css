@@ -1,0 +1,23 @@
+div.qua1 {
+    background-color: #00f;
+    width: 1900px;
+    height:160px;
+    align-items: center;
+    }
+
+div.qua2 {
+    background-color: black;
+    width: 160px;
+    display: inline-block;
+    margin-top: 20px;
+    height:680px;
+    }
+
+div.qua3 {
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    margin-left: 15px;
+    width: 1725px;
+    height:680px;
+    }
+

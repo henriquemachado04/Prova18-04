@@ -1,0 +1,86 @@
+div.qua1 {
+    background-color: rgb(22, 235, 22);
+    height: 50px;
+    align-items: center;
+    }
+
+div.qua2 {
+    background-color: rgb(108, 151, 126);
+    display: inline-block;
+    margin-top: 20px;
+    width: 160PX;
+    height:650px;
+    align-items: center;
+    }
+
+div.qua3 {
+    background-color: rgb(162, 185, 170);
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 1725px;
+    height:650px;
+    position: absolute;
+    }
+
+div.qua4 { 
+    background-color: rgb(85, 197, 10);
+    position: absolute;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 1685PX;
+    height:70px;
+    align-items: center;
+    }
+
+div.qua5 {
+    background-color: rgb(93, 236, 157);
+    position: absolute;
+    display: inline-block;
+    margin-left: 55px;
+    margin-top: 55px;
+    width: 165PX;
+    height:40px;
+    align-items: center;
+    }
+
+div.qua6 {
+    background-color: rgb(206, 250, 86);
+    position: absolute;
+    display: inline-block;
+    margin-left: 235px;
+    margin-top: 55px;
+    width: 165PX;
+    height:40px;
+    align-items: center;
+    }
+
+div.qua7 {
+    background-color: rgb(52, 255, 177);
+    position: absolute;
+    display: inline-block;
+    margin-left: 415px;
+    margin-top: 55px;
+    width: 165PX;
+    height:40px;
+    align-items: center;
+    }
+
+div.qua8 {
+    background-color: rgb(146, 248, 126);
+    position: absolute;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 125px;
+    width: 1685PX;
+    height:520px;
+    align-items: center;
+    }
+
+div.qua9 {
+    background-color: rgb(33, 83, 18);
+    margin-top: 20px;
+    height: 50px;
+    align-items: center;
+    }
